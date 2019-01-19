@@ -11,6 +11,7 @@
   * https://wpilib.screenstepslive.com/s/currentCS/m/85074
   * https://wpilib.screenstepslive.com/s/currentCS/m/vision/l/463566-introduction-to-grip
   * https://wpilib.screenstepslive.com/s/currentCS/m/troubleshooting/l/599674-status-light-quick-reference
+  * https://wpilib.screenstepslive.com/s/currentCS/m/java/l/1027503-installing-c-and-java-development-tools-for-frc
 * CTRE (Cross the Road Electrions)
   * [Phoenix Framework](http://www.ctr-electronics.com/hro.html#product_tabs_technical_resources)
   * [Talon SRX](http://www.ctr-electronics.com/talon-srx.html#product_tabs_technical_resources)
